@@ -29,4 +29,4 @@ My research interests include controllable music generations with diffusions and
 
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/Teaching.md %}
+{% include_relative _includes/teaching.md %}
