@@ -1,0 +1,23 @@
+- company: "Stability.ai"
+  logo: "assets/img/stability-logo.png"
+  topics: "Research on music large language models"
+  advisors: "Dr. Jordi Pons"
+  duration: "Oct 2023 - present (exp. Apr 2024)"
+
+- company: "Sony Research"
+  logo: "assets/img/sonylogo.png"
+  topics: "Text-based music editing with diffusion models"
+  advisors: "Yukara Ikemiya"
+  duration: "Oct 2023 - present (exp. Apr 2024)"
+
+- company: "Yamaha Corporation"
+  logo: "assets/img/yamaha.jpg"
+  topics: "Conversational interface for interative music creation"
+  advisors: "Dr. Akira Maezawa"
+  duration: "Jun 2023 - Sep 2023"
+
+- company: "Microsoft Research Asia"
+  logo: "assets/img/ms.jpg"
+  topics: "Theoretical research of reinforcement learning"
+  advisors: "Dr. Weiqing Liu and Dr. Xiao Yang"
+  duration: "Oct 2018 - Jun 2019"
