@@ -33,31 +33,42 @@ main:
     notes: Best Paper Award nomination
     image: ./assets/img/bart-fusion.png
 
-  - title: "COSMIC: A Conversational Interface for Human-AI Music Co-Creation"
-    authors: <strong>Yixiao Zhang</strong>, Gus Xia, Mark Levy, Simon Dixon
-    conference_short: NIME 2021
-    conference: The 21st International Conference on New Interfaces for Musical Expression (NIME 2021)
-    pdf: https://nime.pubpub.org/pub/in6wsc9t/release/1
-    code: https://github.com/ldzhangyx/music-nlp-chatbot
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W9makMJK9iQJ:scholar.google.com/&output=citation&scisdr=ClEEZrt8EITZ5ZAqNuQ:AFWwaeYAAAAAZTksLuTqIZKSh1jYsPiHCLrgMI4&scisig=AFWwaeYAAAAAZTksLgVCGYPtZwIUSbyMUbiGEF4&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    # notes: Oral Presentation
-    image: ./assets/img/cosmic.png
+  # - title: "COSMIC: A Conversational Interface for Human-AI Music Co-Creation"
+  #   authors: <strong>Yixiao Zhang</strong>, Gus Xia, Mark Levy, Simon Dixon
+  #   conference_short: NIME 2021
+  #   conference: The 21st International Conference on New Interfaces for Musical Expression (NIME 2021)
+  #   pdf: https://nime.pubpub.org/pub/in6wsc9t/release/1
+  #   code: https://github.com/ldzhangyx/music-nlp-chatbot
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W9makMJK9iQJ:scholar.google.com/&output=citation&scisdr=ClEEZrt8EITZ5ZAqNuQ:AFWwaeYAAAAAZTksLuTqIZKSh1jYsPiHCLrgMI4&scisig=AFWwaeYAAAAAZTksLgVCGYPtZwIUSbyMUbiGEF4&scisf=4&ct=citation&cd=-1&hl=zh-CN
+  #   # notes: Oral Presentation
+  #   image: ./assets/img/cosmic.png
 
 
-  - title: "BUTTER: A Representation Learning Framework for Bi-directional Music-Sentence Retrieval and Generation"
-    authors: <strong>Yixiao Zhang</strong>, Ziyu Wang, Dingsu Wang, Gus Xia
-    conference_short: ISMIR 2020 Workshop
-    conference: ISMIR 2020 Workshop on NLP for Music and Audio (NLP4MusA)
-    pdf: https://aclanthology.org/2020.nlp4musa-1.11.pdf
-    code: https://github.com/ldzhangyx/BUTTER
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W9makMJK9iQJ:scholar.google.com/&output=citation&scisdr=ClEEZrt8EITZ5ZAqNuQ:AFWwaeYAAAAAZTksLuTqIZKSh1jYsPiHCLrgMI4&scisig=AFWwaeYAAAAAZTksLgVCGYPtZwIUSbyMUbiGEF4&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    # notes: Oral Presentation
-    image: ./assets/img/butter.png
+  # - title: "BUTTER: A Representation Learning Framework for Bi-directional Music-Sentence Retrieval and Generation"
+  #   authors: <strong>Yixiao Zhang</strong>, Ziyu Wang, Dingsu Wang, Gus Xia
+  #   conference_short: ISMIR 2020 Workshop
+  #   conference: ISMIR 2020 Workshop on NLP for Music and Audio (NLP4MusA)
+  #   pdf: https://aclanthology.org/2020.nlp4musa-1.11.pdf
+  #   code: https://github.com/ldzhangyx/BUTTER
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W9makMJK9iQJ:scholar.google.com/&output=citation&scisdr=ClEEZrt8EITZ5ZAqNuQ:AFWwaeYAAAAAZTksLuTqIZKSh1jYsPiHCLrgMI4&scisig=AFWwaeYAAAAAZTksLgVCGYPtZwIUSbyMUbiGEF4&scisf=4&ct=citation&cd=-1&hl=zh-CN
+  #   # notes: Oral Presentation
+  #   image: ./assets/img/butter.png
 
 
 other:
+
+  - title: "Arrange, Inpaint, and Refine: Steerable Long-term Music Audio Generation and Editing via Content-based Controls"
+    authors: Liwei Lin, Gus Xia, <strong>Yixiao Zhang</strong>, Junyan Jiang
+    conference_short: arxiv 2024
+    conference: Preprint
+    # pdf: https://arxiv.org/pdf/2310.17162
+    # code: https://github.com/Kikyo-16/coco-mulla-repo
+    # page: https://kikyo-16.github.io/coco-mulla/
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Ysm8J-itIiUJ:scholar.google.com/&output=citation&scisdr=ClEEZrt8EITZ5eglkWY:AFWwaeYAAAAAZUEjiWZlWiFZ5lZAz26SrHIcEq8&scisig=AFWwaeYAAAAAZUEjiXdwoeSZD7GykYpctaEobdY&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    # notes: Oral Presentation
+    image: ./assets/img/coco-mulla2.png
 
   - title: "Content-based Controls For Music Large Language Modeling"
     authors: Liwei Lin, Gus Xia, Junyan Jiang, <strong>Yixiao Zhang</strong>
@@ -81,36 +92,36 @@ other:
     # notes: Oral Presentation
     image: ./assets/img/songd.png
 
-  - title: "Vis2Mus: Exploring Multimodal Representation Mapping for Controllable Music Generation"
-    authors: Runbang Zhang, <strong>Yixiao Zhang</strong>, Kai Shao, Ying Shan, Gus Xia
-    conference_short: Arxiv 2022
-    conference: Preprint
-    pdf: https://arxiv.org/pdf/2211.05543
-    code: https://github.com/ldzhangyx/vis2mus
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W9makMJK9iQJ:scholar.google.com/&output=citation&scisdr=ClEEZrt8EITZ5ZAqNuQ:AFWwaeYAAAAAZTksLuTqIZKSh1jYsPiHCLrgMI4&scisig=AFWwaeYAAAAAZTksLgVCGYPtZwIUSbyMUbiGEF4&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    # notes: Oral Presentation
-    image: ./assets/img/vis2mus.png
+  # - title: "Vis2Mus: Exploring Multimodal Representation Mapping for Controllable Music Generation"
+  #   authors: Runbang Zhang, <strong>Yixiao Zhang</strong>, Kai Shao, Ying Shan, Gus Xia
+  #   conference_short: Arxiv 2022
+  #   conference: Preprint
+  #   pdf: https://arxiv.org/pdf/2211.05543
+  #   code: https://github.com/ldzhangyx/vis2mus
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W9makMJK9iQJ:scholar.google.com/&output=citation&scisdr=ClEEZrt8EITZ5ZAqNuQ:AFWwaeYAAAAAZTksLuTqIZKSh1jYsPiHCLrgMI4&scisig=AFWwaeYAAAAAZTksLgVCGYPtZwIUSbyMUbiGEF4&scisf=4&ct=citation&cd=-1&hl=zh-CN
+  #   # notes: Oral Presentation
+  #   image: ./assets/img/vis2mus.png
 
 
-  - title: "Learning Interpretable Representation for Controllable Polyphonic Music Generation"
-    authors: Ziyu Wang, Dingsu Wang, <strong>Yixiao Zhang</strong>, Gus Xia
-    conference_short: ISMIR 2020
-    conference: The 21rd International Society for Music Information Retrieval Conference (ISMIR 2020)
-    pdf: https://arxiv.org/pdf/2008.07122
-    # code: https://github.com/ldzhangyx/vis2mus
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W9makMJK9iQJ:scholar.google.com/&output=citation&scisdr=ClEEZrt8EITZ5ZAqNuQ:AFWwaeYAAAAAZTksLuTqIZKSh1jYsPiHCLrgMI4&scisig=AFWwaeYAAAAAZTksLgVCGYPtZwIUSbyMUbiGEF4&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    # notes: Oral Presentation
-    image: ./assets/img/polydis.png
+  # - title: "Learning Interpretable Representation for Controllable Polyphonic Music Generation"
+  #   authors: Ziyu Wang, Dingsu Wang, <strong>Yixiao Zhang</strong>, Gus Xia
+  #   conference_short: ISMIR 2020
+  #   conference: The 21rd International Society for Music Information Retrieval Conference (ISMIR 2020)
+  #   pdf: https://arxiv.org/pdf/2008.07122
+  #   # code: https://github.com/ldzhangyx/vis2mus
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W9makMJK9iQJ:scholar.google.com/&output=citation&scisdr=ClEEZrt8EITZ5ZAqNuQ:AFWwaeYAAAAAZTksLuTqIZKSh1jYsPiHCLrgMI4&scisig=AFWwaeYAAAAAZTksLgVCGYPtZwIUSbyMUbiGEF4&scisf=4&ct=citation&cd=-1&hl=zh-CN
+  #   # notes: Oral Presentation
+  #   image: ./assets/img/polydis.png
 
-  - title: "PianoTree VAE: Structured Representation Learning for Polyphonic Music"
-    authors: Ziyu Wang, Yiyi Zhang, <strong>Yixiao Zhang</strong>, Junyan Jiang, Ruihan Yang, Junbo Zhao (Jake), Gus Xia
-    conference_short: ISMIR 2020
-    conference: The 21rd International Society for Music Information Retrieval Conference (ISMIR 2020)
-    pdf: https://arxiv.org/pdf/2008.07118
-    code: https://github.com/ZZWaang/PianoTree-VAE
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W9makMJK9iQJ:scholar.google.com/&output=citation&scisdr=ClEEZrt8EITZ5ZAqNuQ:AFWwaeYAAAAAZTksLuTqIZKSh1jYsPiHCLrgMI4&scisig=AFWwaeYAAAAAZTksLgVCGYPtZwIUSbyMUbiGEF4&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    # notes: Oral Presentation
-    image: ./assets/img/pianotree.png
+  # - title: "PianoTree VAE: Structured Representation Learning for Polyphonic Music"
+  #   authors: Ziyu Wang, Yiyi Zhang, <strong>Yixiao Zhang</strong>, Junyan Jiang, Ruihan Yang, Junbo Zhao (Jake), Gus Xia
+  #   conference_short: ISMIR 2020
+  #   conference: The 21rd International Society for Music Information Retrieval Conference (ISMIR 2020)
+  #   pdf: https://arxiv.org/pdf/2008.07118
+  #   code: https://github.com/ZZWaang/PianoTree-VAE
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W9makMJK9iQJ:scholar.google.com/&output=citation&scisdr=ClEEZrt8EITZ5ZAqNuQ:AFWwaeYAAAAAZTksLuTqIZKSh1jYsPiHCLrgMI4&scisig=AFWwaeYAAAAAZTksLgVCGYPtZwIUSbyMUbiGEF4&scisf=4&ct=citation&cd=-1&hl=zh-CN
+  #   # notes: Oral Presentation
+  #   image: ./assets/img/pianotree.png
