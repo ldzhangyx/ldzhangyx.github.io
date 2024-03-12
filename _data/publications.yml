@@ -4,10 +4,10 @@ main:
     authors: <strong>Yixiao Zhang</strong>, Yukara Ikemiya, Gus Xia, Naoki Murata, Marco Martínez, Wei-Hsiang Liao, Yuki Mitsufuji, Simon Dixon
     conference_short: arxiv 2024
     conference: Preprint. Under review.
-    # pdf: https://arxiv.org/pdf/2310.12404
+    pdf: https://arxiv.org/abs/2402.06178
     # code: https://github.com/ldzhangyx/loop-copilot
     page: https://sites.google.com/view/musicmagus/
-    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:_SiG28R9_ZoJ:scholar.google.com/&output=citation&scisdr=ClEEZrt8EITZ5ZAuHzM:AFWwaeYAAAAAZTkoBzNR7yVVFAzDJ2GwWMP1ElM&scisig=AFWwaeYAAAAAZTkoByiYrlWHXplz948ScIIdsfI&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:47J59uS1KCwJ:scholar.google.com/&output=citation&scisdr=ClFjFGrhEILCjEf0csM:AFWwaeYAAAAAZe_yasO1bpCntJwDlzCizrw9zkU&scisig=AFWwaeYAAAAAZe_yamCN3jdqY6ImY4m1GT_y3_4&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/musicmagus.png
     # notes: Preprint. Under review
 
@@ -63,10 +63,10 @@ other:
     authors: Liwei Lin, Gus Xia, <strong>Yixiao Zhang</strong>, Junyan Jiang
     conference_short: arxiv 2024
     conference: Preprint
-    # pdf: https://arxiv.org/pdf/2310.17162
-    # code: https://github.com/Kikyo-16/coco-mulla-repo
-    # page: https://kikyo-16.github.io/coco-mulla/
-    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Ysm8J-itIiUJ:scholar.google.com/&output=citation&scisdr=ClEEZrt8EITZ5eglkWY:AFWwaeYAAAAAZUEjiWZlWiFZ5lZAz26SrHIcEq8&scisig=AFWwaeYAAAAAZUEjiXdwoeSZD7GykYpctaEobdY&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    pdf: https://arxiv.org/abs/2402.09508
+    code: https://github.com/Kikyo-16/AIRGen/
+    page: https://kikyo-16.github.io/AIR/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:gGrD8JghiJEJ:scholar.google.com/&output=citation&scisdr=ClFjFGrhEILCjEf0qmg:AFWwaeYAAAAAZe_ysmhmXDjXLsk4X61EwxSlYNc&scisig=AFWwaeYAAAAAZe_yssM0hd9UPIxKxJyrXpmsE80&scisf=4&ct=citation&cd=-1&hl=zh-CN
     # notes: Oral Presentation
     image: ./assets/img/coco-mulla2.png
 
