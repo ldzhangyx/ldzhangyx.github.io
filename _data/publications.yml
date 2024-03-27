@@ -6,10 +6,10 @@ main:
     conference: Preprint. Under review.
     pdf: https://arxiv.org/abs/2402.06178
     # code: https://github.com/ldzhangyx/loop-copilot
-    page: https://sites.google.com/view/musicmagus/
+    page: https://wry-neighbor-173.notion.site/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models-8f55a82f34944eb9a4028ca56c546d9d
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:47J59uS1KCwJ:scholar.google.com/&output=citation&scisdr=ClFjFGrhEILCjEf0csM:AFWwaeYAAAAAZe_yasO1bpCntJwDlzCizrw9zkU&scisig=AFWwaeYAAAAAZe_yamCN3jdqY6ImY4m1GT_y3_4&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/musicmagus.png
-    # notes: Preprint. Under review
+    notes: The paper was reported in the tech press [MarkTechPost](https://www.marktechpost.com/2024/02/25/musicmagus-harnessing-diffusion-models-for-zero-shot-text-to-music-editing/).
 
   - title: "Loop Copilot: Conducting AI Ensembles for Music Generation and Iterative Editing"
     authors: <strong>Yixiao Zhang</strong>, Akira Maezawa, Gus Xia, Kazuhiko Yamamoto, Simon Dixon
