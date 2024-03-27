@@ -85,9 +85,9 @@ other:
     authors: Ilaria Manco, Benno Weck, Seungheon Doh, <strong>Yixiao Zhang</strong>, Dmitry Bogdanov, Yusong Wu, Ke Chen, Philip Tovstogan, Emmanouil Benetos, Elio Quinton, George Fazekas, Juhan Nam, Minz Won
     conference_short: NeurIPS 2023 Workshop
     conference: NeurIPS 2023 Workshop on Machine Learning for Audio
-    pdf: 
-    code: 
-    page: 
+    pdf: https://arxiv.org/abs/2311.10057
+    code: https://github.com/mulab-mir/song-describer-dataset
+    page: https://zenodo.org/records/10072001
     bibtex: 
     # notes: Oral Presentation
     image: ./assets/img/songd.png
