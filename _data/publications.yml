@@ -2,8 +2,8 @@ main:
 
   - title: "MusicMagus: Zero-Shot Text-to-Music Editing via Diffusion Models"
     authors: <strong>Yixiao Zhang</strong>, Yukara Ikemiya, Gus Xia, Naoki Murata, Marco Martínez, Wei-Hsiang Liao, Yuki Mitsufuji, Simon Dixon
-    conference_short: arxiv 2024
-    conference: Preprint. Under review.
+    conference_short: IJCAI 2024
+    conference: The 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024) - AI, Arts & Creativity Track
     pdf: https://arxiv.org/abs/2402.06178
     # code: https://github.com/ldzhangyx/loop-copilot
     page: https://wry-neighbor-173.notion.site/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models-8f55a82f34944eb9a4028ca56c546d9d
@@ -14,7 +14,7 @@ main:
   - title: "Loop Copilot: Conducting AI Ensembles for Music Generation and Iterative Editing"
     authors: <strong>Yixiao Zhang</strong>, Akira Maezawa, Gus Xia, Kazuhiko Yamamoto, Simon Dixon
     conference_short: arxiv 2023
-    conference: Preprint. Under review.
+    conference: Preprint. 
     pdf: https://arxiv.org/pdf/2310.12404
     code: https://github.com/ldzhangyx/loop-copilot
     page: https://sites.google.com/view/loop-copilot/
@@ -61,8 +61,8 @@ other:
 
   - title: "Arrange, Inpaint, and Refine: Steerable Long-term Music Audio Generation and Editing via Content-based Controls"
     authors: Liwei Lin, Gus Xia, <strong>Yixiao Zhang</strong>, Junyan Jiang
-    conference_short: arxiv 2024
-    conference: Preprint
+    conference_short: IJCAI 2024
+    conference: The 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024) - AI, Arts & Creativity Track
     pdf: https://arxiv.org/abs/2402.09508
     code: https://github.com/Kikyo-16/AIRGen/
     page: https://kikyo-16.github.io/AIR/
