@@ -18,5 +18,6 @@
 <h4 style="margin:0 10px 0;">Committee Members</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.aes.org/technical/saa/"><autocolor>Audio Engineering Society (AES) Technical Committee in Semantic Audio Analysis</autocolor></a></li>
+  <li><a href="https://www.aes.org/technical/saa/"><autocolor>Audio Engineering Society (AES), Technical Committee in Semantic Audio Analysis</autocolor></a></li>
+  <li><a href="https://www.qmul.ac.uk/dmrn/"><autocolor>Digital Music Research Network (DMRN), Organizing Committee</autocolor></a></li>
 </ul>
