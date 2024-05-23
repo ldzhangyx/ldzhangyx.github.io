@@ -7,6 +7,7 @@
   <li><a href="https://ismir2024.ismir.net/"><autocolor>International Society for Music Information Retrieval Conference (ISMIR) 2023, 2024</autocolor></a></li>
   <li><a href="https://2024.acmmm.org/"><autocolor>ACM Multimedia (ACM MM) 2024</autocolor></a></li>
   <li><a href="https://neurips.cc/"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
+  <li><a href="https://neurips.cc/"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS), Dataset and Benchmark Track, 2024</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
@@ -20,4 +21,5 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.aes.org/technical/saa/"><autocolor>Audio Engineering Society (AES), Technical Committee in Semantic Audio Analysis</autocolor></a></li>
   <li><a href="https://www.qmul.ac.uk/dmrn/"><autocolor>Digital Music Research Network (DMRN), Organizing Committee</autocolor></a></li>
+  <li><a href="https://ismir2024.ismir.net/"><autocolor>The 3rd Workshop on NLP for Music and Audio (NLP4MusA @ ISMIR), Program Committee</autocolor></a></li>
 </ul>
