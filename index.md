@@ -8,7 +8,7 @@ I am currently a 4th-year PhD student at Centre for Digital Music (C4DM), Queen 
 
 My research interests include controllable music generations with diffusions and LLMs, and Multimodal representation learning for music editing.
 
-**I am looking for full-time oppotunities from Nov 2024 on Generative Music AI!**
+**I will join ByteDance as a Senior Research Scientist from Fall 2024.**
 
 ## News
 
