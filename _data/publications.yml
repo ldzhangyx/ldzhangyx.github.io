@@ -85,7 +85,7 @@ other:
 
   - title: "Content-based Controls For Music Large Language Modeling"
     authors: Liwei Lin, Gus Xia, Junyan Jiang, <strong>Yixiao Zhang</strong>
-    conference_short: arxiv 2023
+    conference_short: ISMIR 2024
     conference: Preprint
     pdf: https://arxiv.org/pdf/2310.17162
     code: https://github.com/Kikyo-16/coco-mulla-repo
