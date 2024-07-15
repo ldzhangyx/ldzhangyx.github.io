@@ -1,5 +1,18 @@
 main:
 
+  - title: "The Interpretation Gap in Text-to-Music Generation Models"
+    authors: <strong>Yongyi Zang*, Yixiao Zhang*</strong>
+    conference_short: arxiv 2024
+    conference: Preprint.
+    # pdf: https://arxiv.org/abs/2405.18386
+    # code: https://github.com/ldzhangyx/instruct-musicgen
+    #page: https://foul-ice-5ea.notion.site/Instruct-MusicGen-Demo-Page-a1e7d8d474f74df18bda9539d96687ab
+    #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BtlrJPv4eI8J:scholar.google.com/&output=citation&scisdr=ClFlP_qEELSkqdIvMcc:AFWwaeYAAAAAZmMpKcebQxb3kr2bFjukArVVR0k&scisig=AFWwaeYAAAAAZmMpKc68V1qqCuQO3EfttVocvps&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/gap.png
+    #notes: >
+    #  Media report by <a href="https://syncedreview.com/2024/06/05/from-text-to-tunes-the-game-changing-impact-of-instruct-musicgen-on-music-production/">Synced</a>.
+
+
   - title: "Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning"
     authors: <strong>Yixiao Zhang</strong>, Yukara Ikemiya, Naoki Murata, Woosung Choi, Marco Martínez, Liwei Lin, Gus Xia, Wei-Hsiang Liao, Yuki Mitsufuji, Simon Dixon
     conference_short: arxiv 2024
@@ -10,7 +23,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BtlrJPv4eI8J:scholar.google.com/&output=citation&scisdr=ClFlP_qEELSkqdIvMcc:AFWwaeYAAAAAZmMpKcebQxb3kr2bFjukArVVR0k&scisig=AFWwaeYAAAAAZmMpKc68V1qqCuQO3EfttVocvps&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/instruct.png
     notes: >
-      Media report by <a href="https://syncedreview.com/2024/06/05/from-text-to-tunes-the-game-changing-impact-of-instruct-musicgen-on-music-production/">Synced</a>.
+      Media report by <a href="https://syncedreview.com/2024/06/05/from-text-to-tunes-the-game-changing-impact-of-instruct-musicgen-on-music-production/">Synced</a> and <a href="https://www.marktechpost.com/2024/06/12/instruct-musicgen-a-novel-artificial-intelligence-ai-approach-to-text-to-music-editing-that-fosters-joint-musical-and-textual-controls/">MarkTechPost</a>.
 
   - title: "MusicMagus: Zero-Shot Text-to-Music Editing via Diffusion Models"
     authors: <strong>Yixiao Zhang</strong>, Yukara Ikemiya, Gus Xia, Naoki Murata, Marco Martínez, Wei-Hsiang Liao, Yuki Mitsufuji, Simon Dixon
