@@ -11,6 +11,8 @@
   <li><a href="https://2024.ieeemlsp.org/"><autocolor>IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2024</autocolor></a></li>
   <li><a href="https://ismir2024.ismir.net/"><autocolor>Workshop on NLP for Music and Audio (NLP4MusA @ ISMIR), 2024</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>The International Conference on Learning Representations (ICLR), 2025</autocolor></a></li>
+  <li><a href="https://creativity-ai.github.io/"><autocolor>NeurIPS Workshop on Creativity & Generative AI, 2024</autocolor></a></li>
+  <li><a href="https://www.icwsm.org/2025/index.html"><autocolor>The International AAAI Conference on Web and Social Media (ICWSM), 2025</autocolor></a></li>
   
 </ul>
 
