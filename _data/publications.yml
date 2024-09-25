@@ -2,12 +2,12 @@ main:
 
   - title: "The Interpretation Gap in Text-to-Music Generation Models"
     authors: <strong>Yongyi Zang*, Yixiao Zhang*</strong>
-    conference_short: arxiv 2024
-    conference: Preprint.
-    # pdf: https://arxiv.org/abs/2405.18386
+    conference_short: NLP4MusA 2024
+    conference: The 3rd Workshop on NLP for Music and Audio (NLP4MusA) at ISMIR 2024
+    pdf: https://arxiv.org/pdf/2407.10328
     # code: https://github.com/ldzhangyx/instruct-musicgen
     #page: https://foul-ice-5ea.notion.site/Instruct-MusicGen-Demo-Page-a1e7d8d474f74df18bda9539d96687ab
-    #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BtlrJPv4eI8J:scholar.google.com/&output=citation&scisdr=ClFlP_qEELSkqdIvMcc:AFWwaeYAAAAAZmMpKcebQxb3kr2bFjukArVVR0k&scisig=AFWwaeYAAAAAZmMpKc68V1qqCuQO3EfttVocvps&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TgqkiqYTJpYJ:scholar.google.com/&output=citation&scisdr=ClHX9RThEJz70EWIMV4:AFWwaeYAAAAAZvOOKV4kfoyNlzHN3kS5cNfGgcU&scisig=AFWwaeYAAAAAZvOOKfH3xu32rnwtRe72npQ8_U8&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/gap.png
     #notes: >
     #  Media report by <a href="https://syncedreview.com/2024/06/05/from-text-to-tunes-the-game-changing-impact-of-instruct-musicgen-on-music-production/">Synced</a>.
