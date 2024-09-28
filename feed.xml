@@ -11,11 +11,11 @@ layout: null
   <author>
     <name>{{ site.author }}</name>
   </author>
-</feed>
 
-<entry>
-  <title>Feed Verification</title>
-  <id>tag:yourwebsite.com,2024:feed-verification</id>
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <content>This message is used to verify that this feed (feedId:6290516592504832) belongs to me (userId:58572657288400896).</content>
-</entry>
+  <entry>
+    <title>Feed Verification</title>
+    <id>tag:yourwebsite.com,2024:feed-verification</id>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <content>This message is used to verify that this feed (feedId:6290516592504832) belongs to me (userId:58572657288400896).</content>
+  </entry>
+</feed>
