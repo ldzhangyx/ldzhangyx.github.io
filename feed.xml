@@ -16,6 +16,6 @@ layout: null
     <title>Feed Verification</title>
     <id>tag:yourwebsite.com,2024:feed-verification</id>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
-    <content>This message is used to verify that this feed (feedId:6290516592504832) belongs to me (userId:58572657288400896).</content>
+    <content>This message is used to verify that this feed (feedId:62900516592504832) belongs to me (userId:58572657288400896). Join me in enjoying the next generation information browser https://follow.is.</content>
   </entry>
 </feed>
