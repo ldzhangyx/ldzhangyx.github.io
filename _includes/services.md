@@ -13,6 +13,7 @@
   <li><a href="https://iclr.cc/"><autocolor>The International Conference on Learning Representations (ICLR), 2025</autocolor></a></li>
   <li><a href="https://creativity-ai.github.io/"><autocolor>NeurIPS Workshop on Creativity & Generative AI, 2024</autocolor></a></li>
   <li><a href="https://www.icwsm.org/2025/index.html"><autocolor>The International AAAI Conference on Web and Social Media (ICWSM), 2025</autocolor></a></li>
+  <li><a href="https://aistats.org/aistats2025/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS), 2025</autocolor></a></li>
   
 </ul>
 
@@ -20,6 +21,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://transactions.ismir.net/"><autocolor>Transactions of the International Society for Music Information Retrieval (TISMIR)</autocolor></a></li>
+  <li><a href="http://www.computermusicjournal.org/"><autocolor>Computer Music Journal (CMJ)</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Committee Members, Chairs</h4>
