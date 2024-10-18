@@ -14,6 +14,7 @@
   <li><a href="https://creativity-ai.github.io/"><autocolor>NeurIPS Workshop on Creativity & Generative AI, 2024</autocolor></a></li>
   <li><a href="https://www.icwsm.org/2025/index.html"><autocolor>The International AAAI Conference on Web and Social Media (ICWSM), 2025</autocolor></a></li>
   <li><a href="https://aistats.org/aistats2025/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS), 2025</autocolor></a></li>
+  <li><a href="https://chi2025.acm.org/"><autocolor>ACM Conference on Human Factors in Computing Systems (CHI), 2025</autocolor></a></li>
   
 </ul>
 
