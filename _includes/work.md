@@ -19,8 +19,7 @@
             <div class="title"><strong>{{ work.company }}</strong></div>
             <div>Team: {{ work.team }}</div>
             <div>Role: {{ work.role }}</div>
-            {% if work.topic %}
-            <div>Responsibility: {{ work.topic }}</div>
+            <div>Responsibility: {{ work.topics }}</div>
             {% endif %}
             <div>{{ work.duration }}</div>
         </div>
