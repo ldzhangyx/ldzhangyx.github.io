@@ -17,10 +17,10 @@
         <!-- 右边的列，用于显示实习的详细信息 -->
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
             <div class="title"><strong>{{ internship.company }}</strong></div>
-            <div>Topics: {{ internship.topics }}</div>
-            <div>Advisors: {{ internship.advisors }}</div>
+            <div><strong>Topics:</strong> {{ internship.topics }}</div>
+            <div><strong>Advisors:</strong> {{ internship.advisors }}</div>
             {% if internship.topic %}
-            <div>Topic: {{ internship.topic }}</div>
+            <div><strong>Topic:</strong> {{ internship.topic }}</div>
             {% endif %}
             <div>{{ internship.duration }}</div>
         </div>
