@@ -12,15 +12,8 @@ I received the PhD degree in [Artificial Intelligence and Music](https://www.aim
 
 {% include_relative _includes/news.md %}
 
-## Education
 
-- **[2020 - 2024]** Queen Mary University of London
-  - Ph.D. in Artificial Intelligence and Music (jointly sponsored by QMUL & Apple)
-  - Supervisors: Prof. Simon Dixon and Dr. Mark Levy
-  - Thesis: [Improving Controllability and Editability for Pretrained Text-to-Music Generation Models](https://arxiv.org/abs/2411.12641)
-- **[2015 - 2019]** University of Electronic Science and Techonology of China
-  - B.Eng. in Computer Science
-
+{% include_relative _includes/education.md %}
 
 {% include_relative _includes/publications.md %}
 
