@@ -17,9 +17,9 @@
         <!-- 右边的列，用于显示工作的详细信息 -->
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
             <div class="title"><strong>{{ work.company }}</strong></div>
-            <div>Team: {{ work.team }}</div>
-            <div>Role: {{ work.role }}</div>
-            <div>Responsibility: {{ work.topics }}</div>
+            <div><strong>Team:</strong> {{ work.team }}</div>
+            <div><strong>Role:</strong> {{ work.role }}</div>
+            <div><strong>Responsibility:</strong> {{ work.topics }}</div>
             <div>{{ work.duration }}</div>
         </div>
     </div>
