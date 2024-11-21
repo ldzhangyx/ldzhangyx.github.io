@@ -24,6 +24,8 @@ I received the PhD degree in [Artificial Intelligence and Music](https://www.aim
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/work.md %}
+
 {% include_relative _includes/internships.md %}
 
 {% include_relative _includes/services.md %}
