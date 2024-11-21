@@ -10,7 +10,7 @@
         <!-- 左边的列，用于显示公司图标 -->
         <div class="col-sm-3" style="position: relative;padding-right: 15px;padding-left: 15px;">
             {% if work.logo %} 
-            <img src="{{ work.logo }}" class="teaserwork img-fluid z-depth-1" style="width=100;height=40%;">
+            <img src="{{ work.logo }}" class="teaserinternship img-fluid z-depth-1" style="width=100;height=40%;">
             {% endif %}
         </div>
 
@@ -19,7 +19,7 @@
             <div class="title"><strong>{{ work.company }}</strong></div>
             <div>Team: {{ work.team }}</div>
             <div>Role: {{ work.role }}</div>
-            {% if internship.topic %}
+            {% if work.topic %}
             <div>Responsibility: {{ work.topic }}</div>
             {% endif %}
             <div>{{ work.duration }}</div>
