@@ -20,7 +20,6 @@
             <div>Team: {{ work.team }}</div>
             <div>Role: {{ work.role }}</div>
             <div>Responsibility: {{ work.topics }}</div>
-            {% endif %}
             <div>{{ work.duration }}</div>
         </div>
     </div>
