@@ -16,13 +16,13 @@
           <!-- 右边的列，用于显示教育的详细信息 -->
           <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
             <div class="title"><strong>{{ education.institution }}</strong></div>
-            <div>Degree: {{ education.degree }}</div>
-            <div>Duration: {{ education.duration }}</div>
+            <div><strong>Degree:</strong> {{ education.degree }}</div>
+            <div><strong>Duration:</strong> {{ education.duration }}</div>
             {% if education.supervisors %}
-              <div>Supervisors: {{ education.supervisors }}</div>
+              <div><strong>Supervisors:</strong> {{ education.supervisors }}</div>
             {% endif %}
             {% if education.thesis %}
-              <div>Thesis: <a href="{{ education.thesis.url }}">{{ education.thesis.title }}</a></div>
+              <div><strong>Thesis:</strong> <a href="{{ education.thesis.url }}">{{ education.thesis.title }}</a></div>
             {% endif %}
           </div>
         </div>
