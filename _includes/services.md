@@ -30,7 +30,6 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.aes.org/technical/saa/"><autocolor>Audio Engineering Society (AES), Technical Committee in Semantic Audio Analysis</autocolor></a></li>
   <li><a href="https://www.qmul.ac.uk/dmrn/"><autocolor>Digital Music Research Network (DMRN), Organizing Committee</autocolor></a></li>
-  <li><a href="https://ismir2024.ismir.net/"><autocolor>The 3rd Workshop on NLP for Music and Audio (NLP4MusA @ ISMIR), Program Committee</autocolor></a></li>
   <li><a href="https://www.music-ir.org/mirex/wiki/2024:Main_Page"><autocolor> Music Information Retrieval Evaluation eXchange (MIREX) competetion, Organizing Committee</autocolor></a></li>
   <li><a href="https://ijcai24.org/"><autocolor> The 33rd International Joint
 Conference on Artificial Intelligence (IJCAI 2024), Session Chair</autocolor></a></li>
