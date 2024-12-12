@@ -3,6 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://icml.cc/"><autocolor>The International Conference on Machine Learning (ICML), 2025</autocolor></a></li>
   <li><a href="https://2025.ieeeicassp.org/"><autocolor>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024, 2025</autocolor></a></li>
   <li><a href="https://ismir2024.ismir.net/"><autocolor>International Society for Music Information Retrieval Conference (ISMIR), 2023, 2024</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>The International Conference on Learning Representations (ICLR), 2025</autocolor></a></li>
@@ -21,6 +22,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"><autocolor>The IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
   <li><a href="https://transactions.ismir.net/"><autocolor>Transactions of the International Society for Music Information Retrieval (TISMIR)</autocolor></a></li>
   <li><a href="http://www.computermusicjournal.org/"><autocolor>Computer Music Journal (CMJ)</autocolor></a></li>
 </ul>
