@@ -4,11 +4,11 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://icml.cc/"><autocolor>The International Conference on Machine Learning (ICML), 2025</autocolor></a></li>
+  <li><a href="https://iclr.cc/"><autocolor>The International Conference on Learning Representations (ICLR), 2025</autocolor></a></li>
+  <li><a href="https://neurips.cc/"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS), 2024, 2025</autocolor></a></li>
   <li><a href="https://2025.ieeeicassp.org/"><autocolor>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024, 2025</autocolor></a></li>
   <li><a href="https://ismir2024.ismir.net/"><autocolor>International Society for Music Information Retrieval Conference (ISMIR), 2023, 2024</autocolor></a></li>
-  <li><a href="https://iclr.cc/"><autocolor>The International Conference on Learning Representations (ICLR), 2025</autocolor></a></li>
   <li><a href="https://2024.acmmm.org/"><autocolor>ACM Multimedia (ACM MM), 2024</autocolor></a></li>
-  <li><a href="https://neurips.cc/"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS), 2024</autocolor></a></li>
   <li><a href="https://neurips.cc/"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS), Dataset and Benchmark Track, 2024</autocolor></a></li>
   <li><a href="https://aistats.org/aistats2025/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS), 2025</autocolor></a></li>
   <li><a href="https://2025.ijcai.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI), 2025</autocolor></a></li>
@@ -31,9 +31,10 @@
 <h4 style="margin:0 10px 0;">Committee Members, Chairs</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.aes.org/technical/saa/"><autocolor>Audio Engineering Society (AES), Technical Committee in Semantic Audio Analysis</autocolor></a></li>
-  <li><a href="https://www.qmul.ac.uk/dmrn/"><autocolor>Digital Music Research Network (DMRN), Organizing Committee</autocolor></a></li>
+  <li><a href="https://aro.org/event/17th-international-symposium-on-computer-music-multidisciplinary-research-cmmr-2025/"><autocolor>International Symposium on Computer Music Modeling and Retrieval (CMMR) 2025, Organizing Committee</autocolor></a></li>
   <li><a href="https://www.music-ir.org/mirex/wiki/2024:Main_Page"><autocolor> Music Information Retrieval Evaluation eXchange (MIREX) competetion, Organizing Committee</autocolor></a></li>
   <li><a href="https://ijcai24.org/"><autocolor> The 33rd International Joint
 Conference on Artificial Intelligence (IJCAI 2024), Session Chair</autocolor></a></li>
+  <li><a href="https://www.aes.org/technical/saa/"><autocolor>Audio Engineering Society (AES), Technical Committee in Semantic Audio Analysis, 2023-2024</autocolor></a></li>
+  <li><a href="https://www.qmul.ac.uk/dmrn/"><autocolor>Digital Music Research Network (DMRN), Organizing Committee</autocolor></a></li>
 </ul>
