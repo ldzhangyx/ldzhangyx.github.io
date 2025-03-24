@@ -10,7 +10,7 @@
 
 The latest version of my homepage is available here: [[link](https://github.com/yaoyao-liu/yaoyao-liu.github.io)]
 <br>
-A template for Max Planck Institute for Informatics is available here: [[link](https://github.com/yaoyao-liu/minimal-light-theme-mpi-inf)]
+An improved vision from [@Xiao-Chenguang](https://github.com/Xiao-Chenguang): [[link](https://github.com/Xiao-Chenguang/minimal-light)]
 
 ## Features
 
