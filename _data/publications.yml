@@ -1,5 +1,15 @@
 main:
 
+  - title: "Temporal Adaptation of Pre-trained Foundation Models for Music Structure Analysis"
+    authors: <strong>Yixiao Zhang</strong>, Haonan Chen, Ju-Chiang Wang, Jitong Chen
+    conference_short: WASPAA 2025
+    conference: The IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA 2025)
+    pdf: https://arxiv.org/pdf/2507.13572
+    # code: https://github.com/ldzhangyx/instruct-musicgen
+    page: https://sites.google.com/view/temporal-adaptation-for-msa/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iz0oGhJ1uQUJ:scholar.google.com/&output=citation&scisdr=CgLNF_F3ENbrxUj0_PQ:AAZF9b8AAAAAaIry5PRUDXDyCcQCzcOLPGHKsTQ&scisig=AAZF9b8AAAAAaIry5DwpKKU1ZqEfGlSJVfBKVt0&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
+    image: ./assets/img/msa.png
+
   - title: "The Interpretation Gap in Text-to-Music Generation Models"
     authors: <strong>Yongyi Zang*, Yixiao Zhang*</strong>
     conference_short: NLP4MusA 2024
