@@ -1,5 +1,6 @@
 <div style="height: 140px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px 10px 10px 0; border-radius: 5px; margin-bottom: 20px;">
     <ul>
+        <li><strong>[Jul. 2025]</strong> I have 1 paper accepted to WASPAA 2025.  </li>
         <li><strong>[Nov. 2024]</strong> I received my award letter. I am a Doctor now!  </li>
         <li><strong>[Nov. 2024]</strong> I will co-organise MIREX 2024 challenge, a satellite event at ISMIR 2024. </li>
         <li><strong>[Nov. 2024]</strong> I have passed my PhD viva! </li>
