@@ -9,7 +9,7 @@ lang: ja
 
 Private Singing Studio のサポートについては、以下までお問い合わせください。
 
-ldzhangyx [at] outlook [dot] com
+support [at] yixiao [dot] uk
 
 ## よくある質問
 

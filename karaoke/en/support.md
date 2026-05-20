@@ -9,7 +9,7 @@ lang: en
 
 For Private Singing Studio support, contact:
 
-ldzhangyx [at] outlook [dot] com
+support [at] yixiao [dot] uk
 
 ## Frequently Asked Questions
 

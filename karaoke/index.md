@@ -20,4 +20,4 @@ Private Singing Studio is a macOS app for local karaoke and singing practice. Th
 - [プライバシーポリシー - 日本語](/karaoke/ja/privacy/)
 - [サポート - 日本語](/karaoke/ja/support/)
 
-For support, contact: ldzhangyx [at] outlook [dot] com.
+For support, contact: support [at] yixiao [dot] uk.

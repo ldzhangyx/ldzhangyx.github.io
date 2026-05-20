@@ -9,7 +9,7 @@ lang: zh-Hans
 
 如需 Private Singing Studio 支持，请联系：
 
-ldzhangyx [at] outlook [dot] com
+support [at] yixiao [dot] uk
 
 ## 常见问题
 

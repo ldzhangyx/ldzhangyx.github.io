@@ -76,4 +76,4 @@ We may update this Privacy Policy if the App's features or data practices change
 
 If you have questions about this Privacy Policy, contact us at:
 
-ldzhangyx [at] outlook [dot] com
+support [at] yixiao [dot] uk
