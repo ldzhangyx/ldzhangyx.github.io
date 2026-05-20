@@ -1,7 +1,7 @@
 ---
 layout: app_page
 title: Privacy Policy
-permalink: /karaoke/en/privacy/
+permalink: /apps/private-karaoke-studio/en/privacy/
 lang: en
 ---
 
@@ -9,7 +9,7 @@ lang: en
 
 Effective date: May 20, 2026
 
-This Privacy Policy explains how Private Singing Studio ("the App") handles information. The App is provided by Yixiao Zhang ("we", "us", or "our").
+This Privacy Policy explains how Private Karaoke Studio ("the App") handles information. The App is provided by Yixiao Zhang ("we", "us", or "our").
 
 ## Summary
 

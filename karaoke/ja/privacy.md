@@ -1,7 +1,7 @@
 ---
 layout: app_page
 title: プライバシーポリシー
-permalink: /karaoke/ja/privacy/
+permalink: /apps/private-karaoke-studio/ja/privacy/
 lang: ja
 ---
 
@@ -9,7 +9,7 @@ lang: ja
 
 施行日：2026 年 5 月 20 日
 
-本プライバシーポリシーは、Private Singing Studio（以下「本 App」）が情報をどのように取り扱うかを説明するものです。本 App は Yixiao Zhang（以下「当方」）が提供します。
+本プライバシーポリシーは、Private Karaoke Studio（以下「本 App」）が情報をどのように取り扱うかを説明するものです。本 App は Yixiao Zhang（以下「当方」）が提供します。
 
 ## 概要
 

@@ -1,7 +1,7 @@
 ---
 layout: app_page
 title: 隱私權政策
-permalink: /karaoke/zh-Hant/privacy/
+permalink: /apps/private-karaoke-studio/zh-Hant/privacy/
 lang: zh-Hant
 ---
 
@@ -9,7 +9,7 @@ lang: zh-Hant
 
 生效日期：2026 年 5 月 20 日
 
-本隱私權政策說明 Private Singing Studio（以下稱「本 App」）如何處理資訊。本 App 由 Yixiao Zhang（以下稱「我們」）提供。
+本隱私權政策說明 Private Karaoke Studio（以下稱「本 App」）如何處理資訊。本 App 由 Yixiao Zhang（以下稱「我們」）提供。
 
 ## 概要
 

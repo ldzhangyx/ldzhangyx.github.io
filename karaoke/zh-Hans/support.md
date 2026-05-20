@@ -1,13 +1,13 @@
 ---
 layout: app_page
 title: 支持
-permalink: /karaoke/zh-Hans/support/
+permalink: /apps/private-karaoke-studio/zh-Hans/support/
 lang: zh-Hans
 ---
 
 # 支持
 
-如需 Private Singing Studio 支持，请联系：
+如需 Private Karaoke Studio 支持，请联系：
 
 support [at] yixiao [dot] uk
 

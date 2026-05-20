@@ -1,13 +1,13 @@
 ---
 layout: app_page
 title: サポート
-permalink: /karaoke/ja/support/
+permalink: /apps/private-karaoke-studio/ja/support/
 lang: ja
 ---
 
 # サポート
 
-Private Singing Studio のサポートについては、以下までお問い合わせください。
+Private Karaoke Studio のサポートについては、以下までお問い合わせください。
 
 support [at] yixiao [dot] uk
 

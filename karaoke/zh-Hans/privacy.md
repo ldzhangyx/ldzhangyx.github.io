@@ -1,7 +1,7 @@
 ---
 layout: app_page
 title: 隐私政策
-permalink: /karaoke/zh-Hans/privacy/
+permalink: /apps/private-karaoke-studio/zh-Hans/privacy/
 lang: zh-Hans
 ---
 
@@ -9,7 +9,7 @@ lang: zh-Hans
 
 生效日期：2026 年 5 月 20 日
 
-本隐私政策说明 Private Singing Studio（以下简称“本 App”）如何处理信息。本 App 由 Yixiao Zhang（以下简称“我们”）提供。
+本隐私政策说明 Private Karaoke Studio（以下简称“本 App”）如何处理信息。本 App 由 Yixiao Zhang（以下简称“我们”）提供。
 
 ## 概要
 

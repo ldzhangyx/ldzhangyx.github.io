@@ -1,23 +1,23 @@
 ---
 layout: app_page
-title: Private Singing Studio
-permalink: /karaoke/
+title: Private Karaoke Studio
+permalink: /apps/private-karaoke-studio/
 lang: en
 ---
 
-# Private Singing Studio
+# Private Karaoke Studio
 
-Private Singing Studio is a macOS app for local karaoke and singing practice. The current version works offline on your device. It uses microphone access only for recording and monitoring features that you start, and it uses file access only for audio files you choose to open or export.
+Private Karaoke Studio is a macOS app for local karaoke and singing practice. The current version works offline on your device. It uses microphone access only for recording and monitoring features that you start, and it uses file access only for audio files you choose to open or export.
 
 ## Privacy and Support
 
-- [Privacy Policy - English](/karaoke/en/privacy/)
-- [Support - English](/karaoke/en/support/)
-- [隐私政策 - 简体中文](/karaoke/zh-Hans/privacy/)
-- [支持 - 简体中文](/karaoke/zh-Hans/support/)
-- [隱私權政策 - 繁體中文](/karaoke/zh-Hant/privacy/)
-- [支援 - 繁體中文](/karaoke/zh-Hant/support/)
-- [プライバシーポリシー - 日本語](/karaoke/ja/privacy/)
-- [サポート - 日本語](/karaoke/ja/support/)
+- [Privacy Policy - English](/apps/private-karaoke-studio/en/privacy/)
+- [Support - English](/apps/private-karaoke-studio/en/support/)
+- [隐私政策 - 简体中文](/apps/private-karaoke-studio/zh-Hans/privacy/)
+- [支持 - 简体中文](/apps/private-karaoke-studio/zh-Hans/support/)
+- [隱私權政策 - 繁體中文](/apps/private-karaoke-studio/zh-Hant/privacy/)
+- [支援 - 繁體中文](/apps/private-karaoke-studio/zh-Hant/support/)
+- [プライバシーポリシー - 日本語](/apps/private-karaoke-studio/ja/privacy/)
+- [サポート - 日本語](/apps/private-karaoke-studio/ja/support/)
 
 For support, contact: support [at] yixiao [dot] uk.
