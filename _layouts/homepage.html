@@ -73,6 +73,12 @@
         <br>
         <br>
         <div class="social-icons">
+        {% if site.homepage_link %}
+        <a style="margin: 0 5px 0 0" href="{{ site.homepage_link }}">
+          <i class="fas fa-globe"></i>
+        </a>
+        {% endif %}
+
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>

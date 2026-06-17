@@ -1,8 +1,9 @@
 # Basic Information 
 title: Yixiao Zhang 张逸霄
 position: Research Scientist
-affiliation: Seed Music Team, ByteDance
-email: yixiao.zhang (at) bytedance.com
+affiliation: Mureka, Kunlun Inc.
+affiliation_link: https://www.mureka.ai/
+email: ldzhangyx (at) outlook.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,6 +13,7 @@ canonical: https://ldzhangyx.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
+homepage_link: https://yixiao.uk
 google_scholar: https://scholar.google.com/citations?user=ZesLsloAAAAJ
 cv_link: assets/files/cv.pdf
 github_link: https://github.com/ldzhangyx/

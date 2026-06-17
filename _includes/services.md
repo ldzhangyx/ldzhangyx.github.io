@@ -33,7 +33,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://aro.org/event/17th-international-symposium-on-computer-music-multidisciplinary-research-cmmr-2025/"><autocolor>International Symposium on Computer Music Modeling and Retrieval (CMMR) 2025, Organizing Committee</autocolor></a></li>
-  <li><a href="https://www.music-ir.org/mirex/wiki/2024:Main_Page"><autocolor> Music Information Retrieval Evaluation eXchange (MIREX) competetion, Organizing Committee</autocolor></a></li>
+  <li><a href="https://www.music-ir.org/mirex/wiki/2024:Main_Page"><autocolor> Music Information Retrieval Evaluation eXchange (MIREX) competition, Organizing Committee, 2024–2026</autocolor></a></li>
   <li><a href="https://ijcai24.org/"><autocolor> The 33rd International Joint
 Conference on Artificial Intelligence (IJCAI 2024), Session Chair</autocolor></a></li>
   <li><a href="https://www.aes.org/technical/saa/"><autocolor>Audio Engineering Society (AES), Technical Committee in Semantic Audio Analysis, 2023-2024</autocolor></a></li>
